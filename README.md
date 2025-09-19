@@ -14,9 +14,6 @@ The project includes **patient demographics input**, **diagnosis & medical detai
 - [Features](#features)  
 - [Screenshots](#screenshots)  
 - [Project Structure](#project-structure)  
-- [Tech Stack](#tech-stack)  
-- [How to Run](#how-to-run)  
-- [Demo (Optional)](#demo-optional)  
 
 ---
 
@@ -48,21 +45,45 @@ This project aims to:
 ##   Screenshots
 
 ###  Patient Demographics  
+
+
 ![Patient Demographics](/Medical_Discharge/images/Patient_Demographics.png)
 
 ###  Medical Details  
+
+
 ![Medical Details](/Medical_Discharge/images/Medical_Details.png)
 
 ###  Post-Discharge Instructions  
+
+
 ![Post Discharge](Medical_Discharge/images/Post-Discharge.png)
 
 ### AI Assistant (Summarization)  
-![AI Assistant](/Medical_Dischargeimages/AI_Assistant.png)
+
+
+![AI Assistant](/Medical_Discharge/images/AI_Assistant.png)
 
 ###  Generated PDF  
-![PDF Summary](/Medical_Discharge/images/PDF_summary .png)
+
+
+![PDF Summary](/Medical_Discharge/images/PDF_summary.png)
 
 ---
 
 ##  Project Structure
-
+Medical_Discharge_Summary/
+- │
+- ├── main_app.py                 
+- ├── discharge_summary_input.py   
+- ├── pdf_generator.py             
+- ├── requirements.txt             
+- │
+- ├── images/                     
+- │   ├── Patient_Demographics.png
+- │   ├── Medical_Details.png
+- │   ├── Post-Discharge.png
+- │   ├── AI_Assistant.png
+- │   └── PDF_Summary.png
+- │
+- └── README.md                   
