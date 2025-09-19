@@ -1,0 +1,5 @@
+streamlit==1.38.0
+qrcode==8.2
+reportlab==4.2.2
+Pillow==10.4.0
+openai==1.51.0

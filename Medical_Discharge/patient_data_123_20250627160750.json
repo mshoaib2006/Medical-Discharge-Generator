@@ -1,0 +1,28 @@
+{
+    "patient_name": "kk",
+    "patient_id": "123",
+    "age": 2,
+    "gender": "M",
+    "admission_date": "2025-06-28",
+    "discharge_date": "2025-06-29",
+    "discharge_time": "01:00",
+    "diagnosis": "we",
+    "procedure": "ew",
+    "medications": [
+        {
+            "name": "p",
+            "dose": "32323",
+            "frequency": "1",
+            "duration": "3"
+        }
+    ],
+    "lab_tests": [
+        "blood"
+    ],
+    "post_discharge_instructions": "sddd d d\n",
+    "follow_up_details": "12-12-34",
+    "doctor_name": "sh",
+    "hospital_name": "Green Valley Hospital",
+    "hospital_logo_path": "logo.png",
+    "qr_code_data": "Patient ID: 123\nDischarge Date: 2025-06-29\nFollow-up: 12-12-34"
+}
