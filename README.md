@@ -1,4 +1,4 @@
-# Medical-Discharge-Generator
+#  Medical Discharge Summary Generator
 Streamlit-based AI application for generating professional medical discharge summaries with patient demographics, diagnosis, treatment details, doctor info, QR integration, and downloadable PDFs.
 
 #Medical Discharge Summary Generator
@@ -47,22 +47,22 @@ This project aims to:
 
 ##   Screenshots
 
-### 🧑‍⚕️ Patient Demographics  
+###  Patient Demographics  
 ![Patient Demographics](/Medical_Discharge/images/Patient_Demographics.png)
 
-### 💊 Medical Details  
-![Medical Details](images/Medical_Details.png)
+###  Medical Details  
+![Medical Details](/Medical_Discharge/images/Medical_Details.png)
 
-### 📋 Post-Discharge Instructions  
-![Post Discharge](images/Post-Discharge.png)
+###  Post-Discharge Instructions  
+![Post Discharge](Medical_Discharge/images/Post-Discharge.png)
 
-### 🤖 AI Assistant (Summarization)  
-![AI Assistant](images/AI_Assistant.png)
+### AI Assistant (Summarization)  
+![AI Assistant](/Medical_Dischargeimages/AI_Assistant.png)
 
-### 📄 Generated PDF  
-![PDF Summary](images/PDF_Summary.png)
+###  Generated PDF  
+![PDF Summary](/Medical_Discharge/images/PDF_summary .png)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
